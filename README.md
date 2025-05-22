@@ -1,0 +1,4 @@
+--PROJECT WORK --
+-EMANUEL SORRA- backend,
+-ANTONJO MULLAHAJ- frontend,
+-DENALDO HAJDINI- admin
